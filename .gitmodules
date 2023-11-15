@@ -7,3 +7,6 @@
 [submodule "mysite/themes/hello-friend-ng"]
 	path = mysite/themes/hello-friend-ng
 	url = https://github.com/rhazdon/hugo-theme-hello-friend-ng.git
+[submodule "themes/salinger"]
+	path = themes/salinger
+	url = https://github.com/jacksalici/salinger-theme.git
